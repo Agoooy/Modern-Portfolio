@@ -1,9 +1,9 @@
 import About from "@/features/About";
 
 export const metadata = {
-  title: "About | Ulinnaja Aldi",
+  title: "About | Yoga Ardika",
   description:
-    "About Ulinnaja Aldi | Hello! My real name is Aldilla Ulinnaja, an Informatics Engineering student interested and experienced in web development, UI design, and 3D modeling.",
+    "About Yoga Ardika | Hello! My real name is Yoga Ardika Pradana, an Informatics Engineering student interested and experienced in web development, UI design, and 3D modeling.",
 };
 
 const AboutPage = () => {

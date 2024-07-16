@@ -62,7 +62,7 @@ export default function Navbar() {
             data-aos="fade-down"
             data-aos-once="true"
           >
-            Ulinnaja.
+            Yoga.
           </h1>
         </Link>
 

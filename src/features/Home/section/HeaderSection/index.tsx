@@ -13,7 +13,7 @@ const HeaderSection: FC = () => {
         className="pb-1 text-4xl font-semibold text-secondary md:mt-0 md:pb-4 md:text-5xl lg:text-6xl"
         data-aos="fade-up"
       >
-        Ulinnaja Aldi.
+        Yoga Ardika.
       </h1>
       <h1
         className="pb-4 text-4xl font-semibold text-primary md:pb-8 md:text-5xl lg:text-6xl"

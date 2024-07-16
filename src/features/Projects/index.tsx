@@ -2,8 +2,8 @@ import type { FC } from "react";
 import { ProjectGetInTouchSection, ProjectListProjectSection } from "./section";
 
 export const metadata = {
-  title: "Projects | Ulinnaja Aldi",
-  description: "Projects page of Aldilla Ulinnaja portfolio website",
+  title: "Projects | Yoga Ardika",
+  description: "Projects page of Yoga Ardika portfolio website",
 };
 
 const Project: FC = () => {

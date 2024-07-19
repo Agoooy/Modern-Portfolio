@@ -4,7 +4,7 @@ import Home from "@/features/Home";
 export const metadata = {
   title: "Yoga Ardika",
   description:
-    "Yoga Ardika is a Front-End software engineer specializes in building (and sometimes designing) amazing and new digital experiences.",
+    "Yoga Ardika is a Full-Stack Developer specializing in building (and sometimes designing) amazing and innovative digital experiences.",
 };
 
 const Homepage: FC = () => {
